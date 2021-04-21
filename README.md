@@ -13,6 +13,9 @@ A laboratory study session on image processing.
 - **Speaker**:  
 Ash
 
+- **Paper**:  
+[Brock, A., De, S., Smith, S. L., & Simonyan, K. (2021). High-Performance Large-Scale Image Recognition Without Normalization. arXiv preprint arXiv:2102.06171.](https://arxiv.org/pdf/2102.06171.pdf)
+
 - **Content**:  
 [materials](https://drive.google.com/file/d/1GLjVOQEsgNdWnSIga92vhsAwgtgnspvu/view?usp=sharing)
 
