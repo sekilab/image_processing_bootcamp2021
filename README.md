@@ -70,3 +70,12 @@ Maeda
 
 - **Speaker**:  
 Miyoshi
+
+
+## Session 7
+
+- **Date**:  
+2021/07/08 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Ash
