@@ -33,3 +33,40 @@ Sato
 
 - **Content**:  
 In [this Google Slide](https://docs.google.com/presentation/d/1lVhKxUh8XSkqwQOFwaUidxYcMGRGi2TEA9PYwSY3YNE/edit?usp=sharing), P13- is the Session 2 content.
+
+
+## Session 3
+
+- **Date**:  
+2021/05/13 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Nakamura
+
+
+## Session 4
+
+- **Date**:  
+2021/05/27 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Yang
+
+
+## Session 5
+
+- **Date**:  
+2021/06/10 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Maeda
+
+
+
+## Session 6
+
+- **Date**:  
+2021/06/24 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Miyoshi
