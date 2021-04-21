@@ -1,8 +1,8 @@
 # Image Processing Bootcamp 2021
 A laboratory study session on image processing.
 
-[FY 2019 (Lab Member Only)](https://github.com/sekilab/image_processing_bootcamp2019)
-[FY 2020](https://github.com/sekilab/image_processing_bootcamp2020)
+- [FY 2019 (Lab Member Only)](https://github.com/sekilab/image_processing_bootcamp2019)
+- [FY 2020](https://github.com/sekilab/image_processing_bootcamp2020)
 
 ## Session 1
 - **Date**:  
