@@ -29,4 +29,4 @@ Sato
 [Seto, T., Sekimoto, Y., Asahi, K., & Endo, T. (2020, November). Constructing a digital city on a web-3D platform: simultaneous and consistent generation of metadata and tile data from a multi-source raw dataset. In Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities (pp. 1-9).](https://dl.acm.org/doi/10.1145/3423455.3430316)
 
 - **Content**:  
-In [this Google Slide (lab Only)](https://docs.google.com/presentation/d/1lVhKxUh8XSkqwQOFwaUidxYcMGRGi2TEA9PYwSY3YNE/edit?usp=sharing), P13-P13 is the Session 2 content.
+In [this Google Slide](https://docs.google.com/presentation/d/1lVhKxUh8XSkqwQOFwaUidxYcMGRGi2TEA9PYwSY3YNE/edit?usp=sharing), P13-P13 is the Session 2 content.
