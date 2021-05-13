@@ -38,7 +38,7 @@ In [this Google Slide](https://docs.google.com/presentation/d/1lVhKxUh8XSkqwQOFw
 ## Session 3
 
 - **Date**:  
-2021/05/13 (Thu) 13:00-14:00
+2021/05/27 (Thu) 13:00-14:00
 
 - **Speaker**:  
 Nakamura
