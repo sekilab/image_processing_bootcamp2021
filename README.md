@@ -8,7 +8,14 @@ A laboratory study session on image processing.
 
 ## Format
 
-
+1. What is this paper in short?
+2. What is the difference between this paper and related works?
+3. What is the technical contribution?
+4. What is the evaluation method?
+5. Discussion points
+6. Notes
+7. What is next paper you need to read?
+8. Source codes and examples link.
 
 ## Session 1
 - **Date**:  
