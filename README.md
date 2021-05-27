@@ -43,6 +43,13 @@ In [this Google Slide](https://docs.google.com/presentation/d/1lVhKxUh8XSkqwQOFw
 - **Speaker**:  
 Nakamura
 
+- **Paper**:
+[Mescheder, Lars, et al. "Occupancy networks: Learning 3d reconstruction in function space." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks)
+
+- **Content**: 
+ [materials](https://drive.google.com/file/d/1sfd4E_SvzvKLL3LnU9UV0O3G_S2BcYtz/view?usp=sharing)
+
+
 
 ## Session 4
 
