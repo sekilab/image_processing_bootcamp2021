@@ -8,6 +8,7 @@ A laboratory study session on image processing.
 
 ## Format
 
+Paper title
 1. What is this paper in short?
 2. What is the difference between this paper and related works?
 3. What is the technical contribution?
