@@ -53,10 +53,10 @@ Nakamura
 Yang
 
 - **Paper**:
-[Takafumi Taketomi1*, Hideaki Uchiyama2 and Sei Ikeda3].(2017)Visual SLAM algorithms: a survey from 2010 to 2016.DOI 10.1186/s41074-017-0027-2(https://www.researchgate.net/publication/318235730_Visual_SLAM_algorithms_a_survey_from_2010_to_2016)
+[Takafumi Taketomi1*, Hideaki Uchiyama2 and Sei Ikeda3.(2017)Visual SLAM algorithms: a survey from 2010 to 2016.DOI 10.1186/s41074-017-0027-2](https://www.researchgate.net/publication/318235730_Visual_SLAM_algorithms_a_survey_from_2010_to_2016)
 
 - **Content**: 
- Presentation material(https://drive.google.com/file/d/1da2YDlEdPpBtqELqDfNfnRva9xlWYtl2/view?usp=sharing)
+ [Presentation material](https://drive.google.com/file/d/1da2YDlEdPpBtqELqDfNfnRva9xlWYtl2/view?usp=sharing)
 
 
 ## Session 5
