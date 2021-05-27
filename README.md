@@ -6,6 +6,10 @@ A laboratory study session on image processing.
 - [FY 2019 (Lab Member Only)](https://github.com/sekilab/image_processing_bootcamp2019)
 - [FY 2020](https://github.com/sekilab/image_processing_bootcamp2020)
 
+## Format
+
+
+
 ## Session 1
 - **Date**:  
 2021/04/08(Thu)13:00-14:00
