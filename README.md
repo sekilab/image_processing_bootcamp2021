@@ -84,7 +84,7 @@ Yang
 2021/06/10 (Thu) 13:00-14:00
 
 - **Speaker**:  
-Maeda
+Miyohi
 
 
 
@@ -94,7 +94,7 @@ Maeda
 2021/06/24 (Thu) 13:00-14:00
 
 - **Speaker**:  
-Miyoshi
+Maeda
 
 
 ## Session 7
