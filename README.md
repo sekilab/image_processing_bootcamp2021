@@ -84,7 +84,13 @@ Yang
 2021/06/10 (Thu) 13:00-14:00
 
 - **Speaker**:  
-Miyohi
+Miyoshi
+
+- **Paper**:
+[Tolstikhin, I, et al. (2021) MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601)
+
+- **Content**: 
+ [Presentation material](https://docs.google.com/presentation/d/1-mVMggvct15wzjYPQUhO-IiKrzE-43sr66BjxwbKIqg/view)
 
 
 
