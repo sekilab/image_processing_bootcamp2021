@@ -102,6 +102,7 @@ Miyoshi
 - **Speaker**:  
 Maeda
 
+- **Content**: 
 https://docs.google.com/presentation/d/1-GiXIkadvNTEY8CoX0gNQY04YeYy7kV9DIXK8AowTbM/edit?usp=sharing
 
 ## Session 7
