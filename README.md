@@ -117,4 +117,4 @@ Ash
 [Evaluating Multiple Object Tracking Performance: The CLEAR MOT Metrics](https://jivp-eurasipjournals.springeropen.com/articles/10.1155/2008/246309)
 
 - **Content**: 
-[In the MLI Bootcamp foler](https://docs.google.com/presentation/d/1yb6NJKHGcVcG-5sY3bTueF4KhfzOdx5fwn74PWbS5R0/edit?usp=sharing)
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1yb6NJKHGcVcG-5sY3bTueF4KhfzOdx5fwn74PWbS5R0/edit?usp=sharing)
