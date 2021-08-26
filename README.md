@@ -118,3 +118,17 @@ Ash
 
 - **Content**: 
 [In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1yb6NJKHGcVcG-5sY3bTueF4KhfzOdx5fwn74PWbS5R0/edit?usp=sharing)
+
+## Session 8
+
+- **Date**:  
+2021/08/026 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Yang
+
+- **Paper**:
+[Vision-Based Distance Measurement in Advanced Driving Assistance Systems](https://www.mdpi.com/2076-3417/10/20/7276)
+
+- **Content**: 
+[In the MLI Bootcamp folder]
