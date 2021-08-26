@@ -131,4 +131,4 @@ Yang
 [Vision-Based Distance Measurement in Advanced Driving Assistance Systems](https://www.mdpi.com/2076-3417/10/20/7276)
 
 - **Content**: 
-[In the MLI Bootcamp folder]
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1vHCgXirk1Cj0t2zfBRYEnIxd0QVI5eZR/edit?usp=sharing&ouid=109891689458810314396&rtpof=true&sd=true)
