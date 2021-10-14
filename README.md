@@ -122,7 +122,7 @@ Ash
 ## Session 8
 
 - **Date**:  
-2021/09/09 (Thu) 13:00-14:00
+2021/10/14 (Thu) 13:00-14:00
 
 - **Speaker**:  
 Yang
@@ -132,3 +132,48 @@ Yang
 
 - **Content**: 
 [In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1vHCgXirk1Cj0t2zfBRYEnIxd0QVI5eZR/edit?usp=sharing&ouid=109891689458810314396&rtpof=true&sd=true)
+
+
+## Session 9
+
+- **Date**:  
+2021/10/28 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Sato
+
+- **Paper**:
+TBD
+
+- **Content**: 
+TBD
+
+
+## Session 10
+
+- **Date**:  
+2021/11/11 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Ash
+
+- **Paper**:
+TBD
+
+- **Content**: 
+TBD
+
+
+## Session 11
+
+- **Date**:  
+2021/11/25 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Nakamura
+
+- **Paper**:
+TBD
+
+- **Content**: 
+TBD
