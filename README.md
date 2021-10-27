@@ -146,7 +146,7 @@ Sato
 [Campbell, A., Both, A., & Sun, Q. C. (2019) Detecting and mapping traffic signs from Google Street View images using deep learning and GIS. Computers, Environment and Urban Systems, 77, 101350.](https://www.sciencedirect.com/science/article/pii/S0198971519300870)
 
 - **Content**: 
-TBD
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1vHCgXirk1Cj0t2zfBRYEnIxd0QVI5eZR/edit?usp=sharing&ouid=109891689458810314396&rtpof=true&sd=true)
 
 
 ## Session 10
