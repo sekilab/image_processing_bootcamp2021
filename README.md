@@ -158,10 +158,10 @@ Sato
 Ash
 
 - **Paper**:
-TBD
+TensorRT: A C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 
 - **Content**: 
-TBD
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/10ZsdDbA5M9QACoGjENl52lUqw_1BJau0/edit?usp=sharing&ouid=107112930861688689808&rtpof=true&sd=true)
 
 
 ## Session 11
