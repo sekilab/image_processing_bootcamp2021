@@ -177,3 +177,40 @@ Nakamura
 
 - **Content**: 
 [In the MLI Bootcamp folder](https://drive.google.com/file/d/14lFtzlTxRDt-YLGRu_Y4SyRJsaFvqH-f/view?usp=sharing)
+
+
+## Session 12
+
+- **Date**:  
+2021/12/9 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Yang
+
+
+## Session 13
+
+- **Date**:  
+2021/12/23 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Sato
+
+
+## Session 14
+
+- **Date**:  
+2022/01/13 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Ash
+
+
+## Session 15
+
+- **Date**:  
+2022/01/27 (Thu) 13:00-14:00
+
+- **Speaker**:  
+Nakamura
+
