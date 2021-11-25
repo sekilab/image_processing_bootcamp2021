@@ -173,7 +173,7 @@ TensorRT: A C++ library for high performance inference on NVIDIA GPUs and deep l
 Nakamura
 
 - **Paper**:
-TBD
+[Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen (2021) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers](https://arxiv.org/abs/2012.00759)
 
 - **Content**: 
-TBD
+[In the MLI Bootcamp folder](https://drive.google.com/file/d/14lFtzlTxRDt-YLGRu_Y4SyRJsaFvqH-f/view?usp=sharing)
