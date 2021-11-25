@@ -206,11 +206,3 @@ Sato
 Ash
 
 
-## Session 15
-
-- **Date**:  
-2022/01/27 (Thu) 13:00-14:00
-
-- **Speaker**:  
-Nakamura
-
