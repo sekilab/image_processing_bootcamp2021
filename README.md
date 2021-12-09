@@ -187,6 +187,12 @@ Nakamura
 - **Speaker**:  
 Yang
 
+- **Paper**:
+[The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
+
+- **Content**: 
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1vHCgXirk1Cj0t2zfBRYEnIxd0QVI5eZR/edit?usp=sharing&ouid=109891689458810314396&rtpof=true&sd=true)
+
 
 ## Session 13
 
