@@ -202,6 +202,13 @@ Yang
 - **Speaker**:  
 Sato
 
+- **Paper**:
+[Li, H., Gordon, A., Zhao, H., Casser, V., & Angelova, A. (2020). Unsupervised monocular depth learning in dynamic scenes. arXiv preprint arXiv:2010.16404.
+](https://arxiv.org/abs/2010.16404)
+
+- **Content**: 
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1Uq6vFeFoS_Ap-zXEn-aLi8oT3UkhaVXp5L6gsrkSB-g/edit?usp=sharing)
+
 
 ## Session 14
 
