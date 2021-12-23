@@ -216,6 +216,6 @@ Sato
 2022/01/13 (Thu) 13:00-14:00
 
 - **Speaker**:  
-Ash
+Poonam
 
 
