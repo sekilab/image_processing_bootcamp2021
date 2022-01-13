@@ -218,4 +218,8 @@ Sato
 - **Speaker**:  
 Poonam
 
+- **Paper**:
+[Survey on performance of deep learning models for detecting road damages using multiple dashcam image resources,](https://arxiv.org/abs/2010.16404)
 
+- **Content**: 
+[In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1BqMJi_kLfdK3Z47SgLby1FlAmTvLkPJb/edit?usp=sharing&ouid=103793474472221551712&rtpof=true&sd=true)
