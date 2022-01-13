@@ -219,7 +219,7 @@ Sato
 Poonam
 
 - **Paper**:
-[Survey on performance of deep learning models for detecting road damages using multiple dashcam image resources,](https://ur.booksc.eu/book/83969616/488f55)
+[Cao, M. T., Tran, Q. V., Nguyen, N. M., & Chang, K. T. (2020). Survey on performance of deep learning models for detecting road damages using multiple dashcam image resources. Advanced Engineering Informatics, 46, 101182.](https://ur.booksc.eu/book/83969616/488f55)
 
 - **Content**: 
 [In the MLI Bootcamp folder](https://docs.google.com/presentation/d/1BqMJi_kLfdK3Z47SgLby1FlAmTvLkPJb/edit?usp=sharing&ouid=103793474472221551712&rtpof=true&sd=true)
